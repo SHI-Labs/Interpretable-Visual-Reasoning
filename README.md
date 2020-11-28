@@ -35,12 +35,10 @@ In this table, we report the comparison of our object-level compositional reason
 
 ## Bibtex
 ```
-@misc{wang2020interpretable,
-      title={Interpretable Visual Reasoning via Induced Symbolic Space}, 
-      author={Zhonghao Wang and Mo Yu and Kai Wang and Jinjun Xiong and Wen-mei Hwu and Mark Hasegawa-Johnson and Humphrey Shi},
-      year={2020},
-      eprint={2011.11603},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
+@article{wang2020interpretable,
+  title={Interpretable Visual Reasoning via Induced Symbolic Space},
+  author={Zhonghao Wang and Mo Yu and Kai Wang and Jinjun Xiong and Wen-mei Hwu and Mark Hasegawa-Johnson and Humphrey Shi},
+  journal={arXiv preprint arXiv:2011.11603},
+  year={2020}
 }
 ```
