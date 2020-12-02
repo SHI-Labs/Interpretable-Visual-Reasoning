@@ -1,9 +1,11 @@
 # Interpretable Visual Reasoning via Induced Symbolic Space
 
-This is the implementation of [Interpretable Visual Reasoning via Induced Symbolic Space](https://arxiv.org/abs/2011.11603). 
+This is the repo to host the code  for **OCCAM** (Object-Centric Compositional Attention Model) in the following paper:
+
+[Zhonghao Wang](https://scholar.google.com/citations?user=opL6CL8AAAAJ&hl=en), [Mo Yu](https://scholar.google.com/citations?user=vC8DssQAAAAJ&hl=en), [Kai Wang](https://scholar.google.com/citations?user=_yK8SN0AAAAJ&hl=en), [Jinjun Xiong](https://scholar.google.com/citations?user=tRt1xPYAAAAJ&hl=en), [Wen-mei Hwu](https://scholar.google.com/citations?user=ohjQPx8AAAAJ&hl=en), [Mark Hasegawa-Johnson](https://scholar.google.com/citations?hl=en&user=18O0OAwAAAAJ&view_op=list_works&sortby=pubdate) and [Humphrey Shi](https://www.humphreyshi.com/), **Interpretable Visual Reasoning via Induced Symbolic Space**, [Arxiv link](https://arxiv.org/abs/2011.11603). 
 
 **Note:**
-Our code for OCCAM (Object-Centric Compositional Attention Model) will be released soon, stay tuned.
+Our code will be released soon, stay tuned.
 
 
 ## Introduction
