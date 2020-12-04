@@ -14,7 +14,7 @@ Our proposed OCCAM framework performs pure object-level reasoning and achieves a
 </p>
 
 ## Results
-In this table, we report the comparison of our object-level compositional reasoning framework to the state-of-the-art methods. * indicates the method uses external program program annotations. 
+In this table, we report the comparison of our object-level compositional reasoning framework to the state-of-the-art methods. * indicates the method uses external program annotations. 
 | method       | overall  |  count   |  exist   | comp<br>numb | query<br>attr | comp<br>attr |
 | :----------- | :------: | :------: | :------: | :-------: | :--------: | :-------: |
 | [Human](https://openaccess.thecvf.com/content_ICCV_2017/papers/Johnson_Inferring_and_Executing_ICCV_2017_paper.pdf)    |   92.6   |   86.7   |   96.6   |   86.5    |    95.0    |   96.0    |
